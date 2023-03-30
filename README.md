@@ -37,3 +37,17 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 Ubuntu Server Selection</p>
 <br />
+
+<p>
+<img src="https://imgur.com/RJXKghc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Update Role</p>
+<br />
+
+<p>
+<img src="https://imgur.com/XCIKh3Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add New SLA Plan</p>
+<br />
