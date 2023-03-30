@@ -32,21 +32,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Wireshark (Protocol Analyzer)</p>
-<br />
-
-<p>
 <img src="https://imgur.com/IMIGA0q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
