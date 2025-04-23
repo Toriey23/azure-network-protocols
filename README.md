@@ -39,15 +39,17 @@ Ubuntu Server Selection</p>
 <br />
 
 <p>
-<img src="https://imgur.com/RJXKghc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="665" alt="Add new SLA Plan" src="https://github.com/user-attachments/assets/00350345-e07a-4e48-9581-5c70ac8a11fe" />
+
 </p>
 <p>
-Update Role</p>
+Add new SLA Plan</p>
 <br />
 
 <p>
-<img src="https://imgur.com/XCIKh3Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="670" alt="Update Role" src="https://github.com/user-attachments/assets/8826d221-cb98-4da1-b946-e8058ff3845b" />
+
 </p>
 <p>
-Add New SLA Plan</p>
+Update Role</p>
 <br />
